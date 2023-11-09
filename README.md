@@ -273,6 +273,9 @@ JavaScriptWithCommonJS-Sample1: https://github.com/luiscoco/JavaScriptWithCommon
 
 ## 1.10. JQuery
 
+https://jquery.com/
+
+https://jqueryui.com/
 
 
 
