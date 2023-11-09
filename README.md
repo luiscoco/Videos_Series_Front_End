@@ -1,5 +1,9 @@
 # Videos Series Front-End technologies
 
+https://angular.io/
+
+https://angular.dev/
+
 ## 1.1. Angular
 
 Angular_GithubActions-Sample1: https://github.com/luiscoco/Angular_GithubActions-Sample1
