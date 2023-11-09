@@ -185,6 +185,42 @@ Curso de Vue 3 Profesional: https://www.youtube.com/playlist?list=PLDllzmccetSNg
 
 ## 1.7. Flutter
 
+https://flutter.dev/
+
+https://docs.flutter.dev/get-started/install
+
+https://docs.flutter.dev/get-started/install/windows
+
+https://developer.android.com/studio
+
+https://flutterflow.io/
+
+Flutter_Sample1-CreateNewBlankApp: https://github.com/luiscoco/Flutter_Sample1-CreateNewBlankApp
+
+Flutter_Sample2-AboutDialog: https://github.com/luiscoco/Flutter_Sample2-AboutDialog
+
+Flutter_Sample3-AboutListTitle: https://github.com/luiscoco/Flutter_Sample3-AboutListTitle
+
+Flutter_Sample4-ActionListener: https://github.com/luiscoco/Flutter_Sample4-ActionListener
+
+Flutter_Sample5-ActionChip: https://github.com/luiscoco/Flutter_Sample5-ActionChip
+
+Flutter_Sample6-AlertDialog: https://github.com/luiscoco/Flutter_Sample6-AlertDialog
+
+Flutter_Sample7-Align: https://github.com/luiscoco/Flutter_Sample7-Align
+
+Flutter_Sample8-AnimatedAlign: https://github.com/luiscoco/Flutter_Sample8-AnimatedAlign
+
+Flutter_Sample9-AnimatedBuilder: https://github.com/luiscoco/Flutter_Sample9-AnimatedBuilder
+
+Flutter_Sample10-AnimatedContainer: https://github.com/luiscoco/Flutter_Sample10-AnimatedContainer
+
+Flutter_Sample11-AnimatedCrossFade: https://github.com/luiscoco/Flutter_Sample11-AnimatedCrossFade
+
+Flutter_Sample12-Flow: https://github.com/luiscoco/Flutter_Sample12-Flow
+
+
+
 
 ## 1.8. MAUI
 
